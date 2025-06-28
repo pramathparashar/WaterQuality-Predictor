@@ -10,7 +10,7 @@ This guide walks you through the step-by-step process to run the Streamlit-based
 ```
 WaterQuality-Predictor/
 ├── app/
-│   └── streamlit_app.py
+│   └── streamlit_appV2.py
 ├── data/
 │   └── water_potability_cleaned.csv
 ├── models/
@@ -20,8 +20,10 @@ WaterQuality-Predictor/
 │   └── model_training_notebook.ipynb
 ├── docs/
 │   ├── architecture_diagram.png
+│   ├── streamlit_ui.png   
 │   └── feature_importance.png
 ├── README.md
+├── test_cases.md 
 ├── how_to_run.md
 └── venv/
 ```
