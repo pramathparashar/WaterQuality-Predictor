@@ -11,7 +11,7 @@ This project predicts whether water is potable (safe for drinking) based on vari
 WaterQuality-Predictor/
 │
 ├── app/
-│   └── streamlit_app.py          # Streamlit UI for model predictions
+│   └── streamlit_appV2.py          # Streamlit UI for model predictions
 │
 ├── data/
 │   └── water_potability_cleaned.csv   # Cleaned dataset
@@ -21,7 +21,7 @@ WaterQuality-Predictor/
 │   └── scaler.pkl                     # Fitted StandardScaler
 │
 ├── notebooks/
-│   └── model_training.ipynb     # End-to-end training pipeline
+│   └── model_training_notebook.ipynb     # End-to-end training pipeline
 │
 ├── docs/
 │   ├── architecture_diagram.png     # Visual pipeline diagram
